@@ -1,0 +1,28 @@
+_repo: The-Mercurian_62034
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Long, Frank Belknap
+    birthdate: 1903
+    deathdate: 1994
+    gutenberg_agent_id: '25911'
+    url: http://www.gutenberg.org/2009/agents/25911
+    wikipedia: https://en.wikipedia.org/wiki/Frank_Belknap_Long
+description: ''
+gutenberg_issued: '2020-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62034'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mercury (Planet) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Science fiction'
+- GITenberg
+title: The Mercurian
+url: http://www.gutenberg.org/ebooks/62034
